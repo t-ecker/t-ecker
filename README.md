@@ -11,7 +11,7 @@
 
 ## 📫 Reach Out!
 <p>
-  <a href="https://linkedin.com/in/tom-ecker-1a45b1354">
+  <a href="https://linkedin.com/in/tecker">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
