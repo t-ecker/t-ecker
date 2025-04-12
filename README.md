@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm **Tom**  👋
 
-<!--
-**t-ecker/t-ecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Studying at **42 Heilbronn**  
+- 🧠 Currently working on **ft_transcendence project**  
 
-Here are some ideas to get you started:
+## Languages
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,ts,html,css&theme=light)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+[![My Skills](https://skillicons.dev/icons?i=git,docker,vscode,notion,ps,pr,figma,wordpress,nginx&theme=light)](https://skillicons.dev)
+
+## 📫 Reach Out!
+<p>
+  <a href="https://linkedin.com/in/tom-ecker-1a45b1354">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
