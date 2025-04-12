@@ -7,7 +7,7 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,ts,html,css&theme=light)](https://skillicons.dev)
 
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=git,docker,vscode,notion,ps,pr,figma,wordpress,nginx&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,vscode,ps,pr,figma,wordpress&theme=light)](https://skillicons.dev)
 
 ## 📫 Reach Out!
 <p>
