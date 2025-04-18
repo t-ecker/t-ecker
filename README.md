@@ -4,8 +4,8 @@
 - 🧠 Currently working on **ft_transcendence project** (42 school)
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,ts,html,css&theme=light)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py&theme=light)](https://skillicons.dev)
+<!-- ,js,ts,html,css -->
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=git,docker,vscode,ps,pr,figma,wordpress&theme=light)](https://skillicons.dev)
 
