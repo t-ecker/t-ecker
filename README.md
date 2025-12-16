@@ -1,7 +1,7 @@
 # Hey, I'm **Tom**  👋
 
 - 🎓 Studying at **42 Heilbronn**  
-- 🧠 Currently working on **ft_transcendence project** (42 school)
+- 🧠 Currently working on **swifty-companion** (42 school Mastery)
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,ts&theme=light)](https://skillicons.dev)
